@@ -1,4 +1,4 @@
-# Ping????
+# Ping死活監視
 
 ## usage
 
